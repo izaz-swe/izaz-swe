@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **express.js**
 
-- 👨‍💻 All of my projects are available at [*](*)
+<!-- - 👨‍💻 All of my projects are available at [*](*) -->
 
 - 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **izaz.swe@gmail.com**
 
-- 📄 Know about my experiences [*](*)
+<!-- - 📄 Know about my experiences [*](*) -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
@@ -51,7 +51,7 @@
 </div>
 
 ###
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izaz-swe&" alt="izaz-swe" /></p>
-
+</div>
 ###
