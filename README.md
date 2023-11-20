@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats-ten-sigma.vercel.app?user=izaz-swe&theme=dracula&type=png" alt="current-streak"/></p>
+<p><img align="center" src="https://github-readme-streak-stats-ten-sigma.vercel.app?user=izaz-swe&theme=dracula" alt="current-streak"/></p>
 </div>
 
 ###
