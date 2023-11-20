@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats-orpin-eight-66.vercel.app/api?username=izaz-swe" alt="izaz-swe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-ten-sigma.vercel.app?user=izaz-swe&theme=dark" alt="current-streak"/></p>
 </div>
 
 ###
