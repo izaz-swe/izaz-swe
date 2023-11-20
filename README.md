@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats-ten-jet-30.vercel.app/api/?user=izaz-swe" alt="izaz-swe" /></p>
+<p><img align="center" src="https://github-readme-stats-ten-jet-30.vercel.app/api?user=izaz-swe" alt="izaz-swe" /></p>
 </div>
 
 ###
