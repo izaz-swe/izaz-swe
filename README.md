@@ -4,6 +4,8 @@
 Department of Software Engineering  
 Daffodil International University  
 
+# Career Summary
+I am a Lecturer with a strong academic background and a passion for designing scalable and efficient solutions. Proficient in JavaScript, Node.js, and Express.js, with research experience in bioinformatics, particularly in data analysis and modeling. I am eager to leverage my technical skills and problem-solving abilities to drive innovation and contribute meaningfully to organizational success.
 
 - 🔭 I’m currently working on **Tech Haven**
 
