@@ -19,7 +19,22 @@ Daffodil International University
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
+<div align="center">
+  <img src="https://github-readme-stats-orpin-eight-66.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=izaz-swe" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-orpin-eight-66.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=izaz-swe" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/izaz-swe/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats-izaz-ahmmeds-projects.vercel.app/?user=izaz-swe&theme=dracula" alt="current-streak"/></p>
+</div>
 
 ###
 
@@ -37,25 +52,6 @@ Daffodil International University
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="62" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="62" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="62" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-orpin-eight-66.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=izaz-swe" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-orpin-eight-66.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=izaz-swe" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/izaz-swe/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats-izaz-ahmmeds-projects.vercel.app/?user=izaz-swe&theme=dracula" alt="current-streak"/></p>
 </div>
 
 ###
