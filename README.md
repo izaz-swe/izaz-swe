@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Izaz Ahmmed Tuhn</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+# Izaz Ahmmed Tuhin
 
+**Lecturer**  
+Department of Software Engineering  
+Daffodil International University  
 
 
 - 🔭 I’m currently working on **Tech Haven**
